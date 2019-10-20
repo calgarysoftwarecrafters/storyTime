@@ -1,4 +1,7 @@
 Once upon a time..
 There was a git kata
 .
+
+There was a git kata on Sunday arvo, and we had to write a story
+
 Jacqueline and Tony were the organizers. Jacqueline described the four principles of simple coding and then showed everyone where to find the git katas on GitHub.
