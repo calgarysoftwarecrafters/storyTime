@@ -1,3 +1,2 @@
 Once upon a time..
-There was a git kata, and we had to write a story
-.
+There was a git kata on Sunday arvo, and we had to write a story
