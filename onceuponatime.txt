@@ -1,3 +1,3 @@
 Once upon a time..
-There was a git kata
+There was a git kata, and we had to write a story
 .
